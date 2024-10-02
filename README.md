@@ -1,3 +1,3 @@
 ﻿# Malaria-Classifier
 
-![Malaria Classifier]('./Assests/malaria.png')
+![Malaria Classifier](./Assests/malaria.png)
